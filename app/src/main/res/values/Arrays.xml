@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Continent">
+        <item>Choisir un continent</item>
+        <item>Afrique</item>
+        <item>Europe</item>
+        <item>Asie</item>
+        <item>Océanie</item>
+        <item>Amérique</item>
+     </string-array>
+
+    <string-array name="PaysAfr">
+        <item>Choisir un pay</item>
+        <item>Tunisie</item>
+        <item>Algérie</item>
+        <item>Maroc</item>
+        <item>Nigéria</item>
+        <item>Ghana</item>
+    </string-array>
+
+    <string-array name="PaysEur">
+        <item>Choisir un pay</item>
+        <item>France</item>
+        <item>Espagne</item>
+        <item>Italie</item>
+        <item>Allemagne</item>
+        <item>Pays Bas</item>
+    </string-array>
+
+    <string-array name="PaysAsie">
+        <item>Choisir un pay</item>
+        <item>Jordanie</item>
+        <item>Syrie</item>
+        <item>Japon</item>
+        <item>Chine</item>
+        <item>Inde</item>
+    </string-array>
+
+    <string-array name="PaysOc">
+        <item>Choisir un pay</item>
+        <item>Australie</item>
+        <item>Fidji</item>
+        <item>Nouvelle_Zélande</item>
+    </string-array>
+
+    <string-array name="PaysAm">
+        <item>Choisir un pay</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Argentine</item>
+        <item>Mexique</item>
+        <item>Uruguay</item>
+    </string-array>
+
+
+
+</resources>
